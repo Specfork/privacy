@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/privacy"
 summary: Export all my data, delete all my data, import a previous export, and a data inventory, for any app that stores personal data.
 license: CC-BY-4.0
+tags: [base, data]
 ---
 
 # Privacy
